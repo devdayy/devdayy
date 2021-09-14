@@ -2,7 +2,7 @@
 
 
 - 🔭 Front-End
-- 🌱 Estudando HTML5, CSS3, BootStrap, JavaScript e +
+- 🌱 Estudando HTML5, CSS3, C#, JavaScript e +
 - 😄 Pronouns: ela/dela
 
 <div>
