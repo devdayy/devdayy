@@ -1,9 +1,8 @@
 ### Olá! Eu sou a Daiany Delfino 👋
 
 
-- 🔭 Front-End
-- 🌱 Estudando HTML5, CSS3, C#, JavaScript e +
-- 😄 Pronouns: ela/dela
+- 🔭 Fullstack
+- 🌱 C#, .NET, AngularJS e Typescript.
 
 <div>
   <a href="https://github.com/devdayy">
