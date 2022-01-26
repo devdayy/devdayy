@@ -1,4 +1,4 @@
-### Olá! Eu sou a Daiany Delfino 👋
+### Olá! Me chamo Daiany Delfino 👋
 
 
 - 🔭 Desenvolvedora Full Stack;
