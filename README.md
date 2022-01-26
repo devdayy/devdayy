@@ -2,7 +2,7 @@
 
 
 - 💻 Sou Desenvolvedora Full Stack;
-- 🧠 Hard Skills: Angular, React, C#, JavaScript e TypeScript :)
+- 🧠 Hard Skills: Angular | React | C# | JavaScript | TypeScript | PostgreSQL :)
 
 <div>
   <a href="https://github.com/devdayy">
