@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Daiany Delfino 👋
 
 
-- 🔭 Fullstack
-- 🌱 C#, .NET, AngularJS e Typescript.
+- 🔭 Desenvolvedora Full Stack;
+- 🌱 Desenvolvo uns programas com: Angular, React, C#, JavaScript e TypeScript :)
 
 <div>
   <a href="https://github.com/devdayy">
