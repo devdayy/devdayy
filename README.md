@@ -1,7 +1,7 @@
 ### Olá! Me chamo Daiany Delfino 👋
 
 
-- 💻 Sou Desenvolvedora Full Stack;
+- 💻 Sou Desenvolvedora Full Stack com foco em backend;
 - 🧠 Hard Skills: C#/.NET | Angular | React | JavaScript | TypeScript | PostgreSQL | AzureDevops :)
 
 <div>
